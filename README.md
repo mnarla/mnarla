@@ -1,6 +1,8 @@
 # Hi, I'm Mayank 👋
 
-CS student at UCSC.
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=70A5FD&background=0D111700&width=450&lines=CS+student+at+UCSC" alt="Typing SVG" />
+</div>
 
 ---
 
