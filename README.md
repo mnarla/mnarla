@@ -54,7 +54,7 @@ AI/ML systems, symbolic reasoning, distributed training, and end-to-end project 
 
 ## 📜 Certifications
 - AWS Cloud Quest: Cloud Practitioner, Solutions Architect, Generative AI Architect *(In Progress / Training Badges)*
-- Anthropic Academy MCP Certification
+- Anthropic Academy Intro to MCP Certification
 
 ## 📫 Connect
 
