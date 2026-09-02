@@ -1,23 +1,6 @@
 # Hi, I'm Mayank 👋
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&background=0D111700&width=650&lines=CS+student+%40+UC+Santa+Cruz;Incoming+Agentic+AI+Engineer+Intern;Building+neurosymbolic+reasoning+systems;Passionate+about+distributed+training+%26+LLM+systems" alt="Typing SVG" />
-</div>
-
-CS student at UC Santa Cruz (Class of 2028) — building agentic AI systems and exploring neurosymbolic reasoning.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mnarla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Mayank's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mnarla&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Mayank's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mnarla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-</p>
+CS student at UCSC.
 
 ---
 
