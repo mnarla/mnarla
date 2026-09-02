@@ -1,6 +1,60 @@
 # Hi, I'm Mayank 👋
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&background=0D111700&width=650&lines=CS+student+%40+UC+Santa+Cruz;Incoming+Agentic+AI+Engineer+Intern;Building+neurosymbolic+reasoning+systems;Passionate+about+distributed+training+%26+LLM+systems" alt="Typing SVG" />
+</div>
+
 CS student at UC Santa Cruz (Class of 2028) — building agentic AI systems and exploring neurosymbolic reasoning.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mnarla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Mayank's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mnarla&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Mayank's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mnarla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog%20%2F%20Janus-E94635?style=for-the-badge&logo=prolog&logoColor=white)
+
+### AI & Neurosymbolic
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Frameworks & Fullstack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Cloud, Systems & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
 
 ## 🔭 What I'm up to
 - Incoming Agentic AI Engineer Intern @ IDXExchange 
@@ -13,14 +67,12 @@ CS student at UC Santa Cruz (Class of 2028) — building agentic AI systems and 
 ## 🧠 Interests
 AI/ML systems, symbolic reasoning, distributed training, and end-to-end project building.
 
-## 🛠️ Tech Stack
-`Python` `LangGraph` `LangChain` `Prolog/Janus` `PyTorch` `Ruby on Rails` `Flutter/Dart` `React` `Kubernetes`
-
 ## 📜 Certifications
-AWS Cloud Quest: Cloud Practitioner, Solutions Architect, Generative AI Architect (In Progress and all are Training Badges)
-Anthropic Academy MCP Certification
+- AWS Cloud Quest: Cloud Practitioner, Solutions Architect, Generative AI Architect *(In Progress / Training Badges)*
+- Anthropic Academy MCP Certification
 
 ## 📫 Connect
-www.linkedin.com/in/mayank-narla-4761b4366
 
-narla.mayank@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-narla-4761b4366)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narla.mayank@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnarla)
