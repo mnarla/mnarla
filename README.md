@@ -1,4 +1,4 @@
-# Hi, I'm Mayank 👋
+# Hi, I'm Mayank 
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=70A5FD&background=0D111700&width=450&lines=CS+student+at+UCSC" alt="Typing SVG" />
@@ -42,21 +42,21 @@
 ---
 
 ## 🔭 What I'm up to
-- 🤖 Incoming Agentic AI Engineer Intern @ **IDXExchange** 
-- 💼 App Development Intern @ **REC (My Recommendation)** — Ruby on Rails 
-- 🔬 Auditor->Researcher / LLM Logic Researcher @ **UCSC AIEA Lab** — multi-node LangGraph pipelines, neurosymbolic reasoning (LangChain, Prolog/Janus, PyTorch, Kubernetes on Nautilus)
-- 🎧 Built **Culler** — Messed around with a local agentic engine that predicts which playlist tracks I'd skip, using Qwen3 8B running locally, Spotify + Last.fm data, and a self-calibrating rule engine backed by SQLite
-- 🏎️ Built **Paddock Scout** — F1 data analysis with LLM integration, deployed live (React frontend on Vercel, backend on Render)
-- 🎯 Built **WFM Sell-Timing Advisor** — a LangGraph pipeline generating Warframe Market trading recommendations
+- Incoming Agentic AI Engineer Intern @ **IDXExchange** 
+- App Development Intern @ **REC (My Recommendation)** — Ruby on Rails 
+- Auditor->Researcher / LLM Logic Researcher @ **UCSC AIEA Lab** — multi-node LangGraph pipelines, neurosymbolic reasoning (LangChain, Prolog/Janus, PyTorch, Kubernetes on Nautilus)
+- Built **Culler** — Messed around with a local agentic engine that predicts which playlist tracks I'd skip, using Qwen3 8B running locally, Spotify + Last.fm data, and a self-calibrating rule engine backed by SQLite
+- Built **Paddock Scout** — F1 data analysis with LLM integration, deployed live (React frontend on Vercel, backend on Render)
+- Built **WFM Sell-Timing Advisor** — a LangGraph pipeline generating Warframe Market trading recommendations
 
-## 🧠 Interests
+## Interests
 AI/ML systems, symbolic reasoning, distributed training, and end-to-end project building.
 
-## 📜 Certifications
+## Certifications
 - AWS Cloud Quest: Cloud Practitioner, Solutions Architect, Generative AI Architect *(In Progress / Training Badges)*
 - Anthropic Academy Intro to MCP Certification
 
-## 📫 Connect
+## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mnarla.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-narla-4761b4366)
